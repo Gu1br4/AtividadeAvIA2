@@ -1,22 +1,3 @@
-# Ambiente virtual
 .venv/
-
-# Dados do CIFAR-10 (baixado automaticamente)
 data/
-
-# Modelo salvo e outputs gerados
 outputs/
-
-# Cache Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# VS Code
-.vscode/
-
-# Debug
-output.txt
